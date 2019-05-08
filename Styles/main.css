@@ -133,13 +133,14 @@ header .content .phoneimages{
 }
 
 header .content .Maintext{
-    margin-left: 107px;
+    margin-left: 109px;
 }
 
 header .content .Maintext  h3{
     font-family: "Lato";
     font-weight: 300;
     font-size: 36px;
+    width: 120%;    
     line-height: 60px;
     color: #fff;
     padding-top: 128px
@@ -169,7 +170,7 @@ header .content .Maintext .title h1{
 
 header .content .Maintext p{
     display: inline-block;
-    width: 103%;
+    width: 98%;
     font-family: "Lato";
     font-weight: 300;
     font-size: 18px;
@@ -274,7 +275,7 @@ main .MainBack .content h3{
     line-height: 33px;
     font-family: 'Lato';
     font-weight: 300;
-    padding-left: 7px
+    padding-left: 7px;
 }
 
 main .MainBack .content h3 span{
@@ -364,6 +365,7 @@ main .MainBack .mainBlock{
 }
 
 header .content{
+    width: 102%;
     display: flex;
 }
 
@@ -374,7 +376,7 @@ header .content .phoneimages{
 }
 
 header .content .Maintext{
-    margin-left: 107px;
+    margin-left: 97px;
 }
 
 header .content .Maintext  h3{
@@ -1141,6 +1143,7 @@ color: #A1B1BC
     padding-top: 1px;
     font-size: 50px;
 }
+
 .BigContainer .arrow div:last-child{
     right: 10%;
     background-color: #1A1C27;
