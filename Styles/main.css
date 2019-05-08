@@ -65,7 +65,7 @@ header .MainContainer nav ul{
     align-items: center;
 }
 header .MainContainer nav li{
-    padding-left: 38px;
+    padding-left: 37px;
 }
 
 header .MainContainer nav li:first-child{
@@ -894,12 +894,12 @@ main .container .poster img{
 }
 
 
-.MainBack.diff{
+.MainBack.div1{
     background-color: #fff;
     margin-bottom: 0;
 }
 
-.block.diff{
+.block.div1{
     background-color: #fff;
     border: 1px solid #E6E6E6;
     border-top-right-radius: 6px;
@@ -972,7 +972,7 @@ main .container .poster img{
 .content.Fifth .points .item .poster .image.black{
     background-color: black;
 }
-.MainBack.diff-2{
+.MainBack.div1-2{
     background-color: #ECF0F1;
     opacity: 30%;
     height: 694px;
@@ -1086,6 +1086,7 @@ main .container .poster img{
     font-family: 'Lato';
     font-weight: 400;
     font-size: 15px;
+    margin-top: -5px;
     line-height: 24px;
     color: #A1B1BC;
     padding-left: 20px;
@@ -1125,12 +1126,12 @@ color: #A1B1BC
     display: flex;
 }
 
-.BigContainer{
+.MainCont{
     background-color: black;
     position: relative;
 }
 
-.BigContainer .arrow div{
+.MainCont .arrow div{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -1144,45 +1145,45 @@ color: #A1B1BC
     font-size: 50px;
 }
 
-.BigContainer .arrow div:last-child{
+.MainCont .arrow div:last-child{
     right: 10%;
     background-color: #1A1C27;
     border: 0;
    
 }
 
-.BigContainer .arrow div:first-child{
+.MainCont .arrow div:first-child{
     left: 10.5%;
 }
 
-.BigContainer .SmallContainer {
+.MainCont .SmallContainer {
     width: 1172px;
     height: 673px;
     margin: auto;
 
 }
 
-.BigContainer .SmallContainer .title{
+.MainCont .SmallContainer .title{
     width: 630px;
     margin: auto;
 }
 
-.BigContainer .SmallContainer .title h3{
+.MainCont .SmallContainer .title h3{
     color: #FFFFFF;
     text-align: center;
     font-family: 'Lato';
     font-weight: 300;
     font-size: 30px;
     line-height: 20px;
-    padding-top: 100px;
+    padding-top: 97px;
     padding-left: 20px;
     padding-bottom: 15px;
 }
-.BigContainer .SmallContainer .title span{
+.MainCont .SmallContainer .title span{
     font-weight: 700;
 }
 
-.BigContainer .SmallContainer .title p{
+.MainCont .SmallContainer .title p{
     color: #FFFFFF;
     text-align: center;
     font-family: 'Lato';
@@ -1192,13 +1193,13 @@ color: #A1B1BC
     padding-left: 17px;
 }
 
-.BigContainer .SmallContainer .title .inputs input{
+.MainCont .SmallContainer .title .inputs input{
     width: 170px;
     height: 45px;
     text-transform: uppercase;
     margin-bottom: 100px;
 }
-.BigContainer .SmallContainer .title .inputs input:first-child{
+.MainCont .SmallContainer .title .inputs input:first-child{
     border: 1px solid #fff;
     background-color: black;
     color: #fff;
@@ -1206,24 +1207,24 @@ color: #A1B1BC
     margin-top: 18px;
 }
 
-.BigContainer .SmallContainer .title .inputs input:last-child{
+.MainCont .SmallContainer .title .inputs input:last-child{
     background-color:#21C2F8;
     color: #fff;
     margin-left: 6px;
     border: 0;
 }
 
-.BigContainer .SmallContainer img{
+.MainCont .SmallContainer img{
     margin-top: -25px;
     margin-left: 5px;
 }
 
 
-.BigContainer-2{
+.MainCont-2{
     background-color: #ECF0F1;
 }
 
-.BigContainer-2 .shop-service{
+.MainCont-2 .shop-service{
     width: 1170px;
     margin: auto;
     display: flex;
@@ -1406,29 +1407,29 @@ color: #A1B1BC
 }
 
 
-.BigContainer-3{
+.MainCont-3{
     background-color: #34495E;
     height: 300px;
 }
 
 
-.BigContainer-3 .content{
+.MainCont-3 .content{
     width: 1170px;
     margin: auto;
     display: flex;
     justify-content: space-between;
     padding: 114px 0;
 }
-.BigContainer-3 .content .item{
+.MainCont-3 .content .item{
     position: relative;
-    margin-left: 50px;
+    margin-right: 60px;
 }
-
-.BigContainer-3 .content .item:first-child{
+.MainCont-3 .content 
+.MainCont-3 .content .item:first-child{
     margin-left: 0;
 }
 
-.BigContainer-3 .content h1{
+.MainCont-3 .content h1{
     font-family: 'Lato';
     font-weight: 300;
     font-size: 72px;
@@ -1437,7 +1438,7 @@ color: #A1B1BC
     padding-left: 50px;
 }
 
-.BigContainer-3 .content span{
+.MainCont-3 .content span{
     font-family: 'Lato';
     font-weight: 700;
     font-size: 18px;
