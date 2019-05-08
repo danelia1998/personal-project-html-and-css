@@ -256,7 +256,7 @@ main .MainBack{
 }
 
 main .MainBack .content{
-    width: 1170px;
+    width: 1176px;
     margin: auto;
     margin-bottom: 67px;
     
@@ -265,8 +265,8 @@ main .MainBack .content{
 main .MainBack .content .head{
     display: flex;
     justify-content: space-between;
-    padding-top: 96px;
-    margin-bottom: 47px;
+    padding-top: 97px;
+    margin-bottom: 46px;
 }
 
 main .MainBack .content h3{
@@ -467,16 +467,6 @@ header .content .Maintext .title img{
     padding-left: 3px;
 }
 
-
-
-main .short-info{
-    width: 1170px;
-    display: flex;
-    border: 1px solid #E6E6E6;
-    border-radius: 5px;
-    margin-bottom: 48px;
-    margin-left: 373px;
-    margin-top: 100px;
 }
 
 main .short-info img{
@@ -744,9 +734,7 @@ main .short-info{
     display: flex;
     border: 1px solid #E6E6E6;
     border-radius: 5px;
-    margin-bottom: 48px;
-    margin-left: 373px;
-    margin-top: 100px;
+    margin: 100px auto 48px auto;
 }
 
 main .short-info img{
@@ -1525,7 +1513,6 @@ color: #A1B1BC
     background-color: #F5F7F8;
     border: 1px solid #EAEAEA;
     display: flex;
-    margin-left: 375px;
     padding: 0 22px 0 30px;
     border-radius: 5px;
     margin-bottom: 100px;
